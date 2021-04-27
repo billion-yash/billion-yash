@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Yash A. Dhanlobhe</h1>
 <h3 align="center">Currently pursuing Information Technology B.Tech degree in Government College of Engineering Karad, India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=billion-yash&label=Profile%20views&color=0e75b6&style=flat" alt="billion-yash" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=billion-yash&label=Profile%20views&color=0e75b6&style=flat" alt="billion-yash" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billion-yash" alt="billion-yash" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billion-yash" alt="billion-yash" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@dhanlobhe_yash" target="blank"><img src="https://img.shields.io/twitter/follow/@dhanlobhe_yash?logo=twitter&style=for-the-badge" alt="@dhanlobhe_yash" /></a> </p>
-
-- 🔭 I’m currently working on **GCEK**
+- 🔭 I’m currently working on **Android Development**
 
 - 👨‍💻 All of my projects are available at [yashdhanlobhe.tech](yashdhanlobhe.tech)
 
-- 💬 Ask me about **My passion is improving user experience & developing apps which users will enjoy interacting with. I know how to get a Job done and what it takes. I have gained experience in Android & Flutter App development.**
+- 💬**My passion is improving user experience & developing apps which users will enjoy interacting with. I know how to get a Job done and what it takes. I have gained experience in Android & Flutter App development.**
 
-- 📫 How to reach me **ydhanlobhe1930@gmail.com**
+- 📫 How to reach me **ydhanlobhe1930@gmail.com** or **billionyash@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@dhanlobhe_yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@dhanlobhe_yash" height="30" width="40" /></a>
+<p align="center">
+<a href="https://twitter.com/@dhanlobhe_yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/billion-yash/billion-yash/5f58cbcf393eb11e5b8fc9c382cc02d994e64400/twitter.svg" alt="@dhanlobhe_yash" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-dhanlobhe-681ab5185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-dhanlobhe-681ab5185/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13291683/yash-dhanlobhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13291683/yash-dhanlobhe" height="30" width="40" /></a>
 <a href="https://instagram.com/its__yassh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="its__yassh" height="30" width="40" /></a>
