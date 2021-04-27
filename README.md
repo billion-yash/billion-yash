@@ -1,7 +1,14 @@
+<img src="https://github.com/billion-yash/billion-yash/blob/main/images/poster.png?raw=true" />
+
 <h1 align="center">Hi 👋, I'm Yash A. Dhanlobhe</h1>
 <h3 align="center">Currently pursuing Information Technology B.Tech degree in Government College of Engineering Karad, India.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=billion-yash&label=Profile%20views&color=0e75b6&style=flat" alt="billion-yash" /> </p>
+<p align="center">
+ <img src="https://badges.pufler.dev/visits/billion-yash/billion-yash"/>
+ <img src="https://badges.pufler.dev/years/billion-yash"/>
+ <img src="https://badges.pufler.dev/repos/billion-yash"/>
+ <img src="https://badges.pufler.dev/commits/monthly/billion-yash"/>
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billion-yash" alt="billion-yash" /></a> </p>
 
