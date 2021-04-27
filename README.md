@@ -1,6 +1,6 @@
 <img src="https://github.com/billion-yash/billion-yash/blob/main/images/poster.png?raw=true" />
 
-<h1 align="center">Hi 👋, I'm Yash A. Dhanlobhe</h1>
+<h1 align="center">Hello World!, I'm Yash A. Dhanlobhe</h1>
 <h3 align="center">Currently pursuing Information Technology B.Tech degree in Government College of Engineering Karad, India.</h3>
 
 <p align="center">
@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/yash-dhanlobhe-681ab5185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/billion-yash/billion-yash/bd28cce68bfb19370bc118bd9f565c0f6f7c3786/images/linkedin.svg" alt="https://www.linkedin.com/in/yash-dhanlobhe-681ab5185/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13291683/yash-dhanlobhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/billion-yash/billion-yash/5beff8072078c8deb0dff925046118095aef7af4/images/stack.svg" alt="https://stackoverflow.com/users/13291683/yash-dhanlobhe" height="30" width="40" /></a>
 <a href="https://instagram.com/its__yassh" target="blank"><img align="center" src="https://raw.githubusercontent.com/billion-yash/billion-yash/5beff8072078c8deb0dff925046118095aef7af4/images/instagram.svg" alt="its__yassh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yash dhanlobhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/billion-yash/billion-yash/5beff8072078c8deb0dff925046118095aef7af4/images/youtube.svg" alt="yash dhanlobhe" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCmU-70xWRx32DZtZ6pkHKYQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/billion-yash/billion-yash/5beff8072078c8deb0dff925046118095aef7af4/images/youtube.svg" alt="yash dhanlobhe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
