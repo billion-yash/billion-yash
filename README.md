@@ -4,8 +4,7 @@
 <h3 align="center">Currently pursuing Information Technology B.Tech degree in Government College of Engineering Karad, India.</h3>
 
 <p align="center">
- <img src="https://badges.pufler.dev/visits/billion-yash/billion-yash"/>
- <img src="https://badges.pufler.dev/years/billion-yash"/>
+ <img src="https://komarev.com/ghpvc/?username=billion-yash&color=green"/>
  <img src="https://badges.pufler.dev/repos/billion-yash"/>
  <img src="https://badges.pufler.dev/commits/monthly/billion-yash"/>
 </p>
