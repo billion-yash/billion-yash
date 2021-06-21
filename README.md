@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Android Development**
 
-- 👨‍💻 All of my projects are available at <a href="https://yashhh.herokuapp.com/" target="blank">yashdhanlobhe.tech</a>
+- 👨‍💻 All of my projects are available at <a href="https://yashhh.herokuapp.com/" target="blank">yashdhanlobhe.website</a>
 
 - 💬**My passion is improving user experience & developing apps which users will enjoy interacting with. I know how to get a Job done and what it takes. I have gained experience in Android & Flutter App development.**
 
