@@ -1,4 +1,3 @@
-<img src="https://github.com/billion-yash/billion-yash/blob/main/images/poster.png?raw=true" />
 
 <h1 align="center">Hello World!, I'm Yash A. Dhanlobhe</h1>
 <h3 align="center">Currently pursuing Information Technology B.Tech degree in Government College of Engineering Karad, India.</h3>
